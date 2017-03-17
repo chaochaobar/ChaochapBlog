@@ -1,6 +1,6 @@
 #select_sort
 ##code 
-//#include<stdio.h>
+-#include<stdio.h>
 int main(){
     int a[10]={87,22,44,1,42,556,24,20,13,16};
     int i,j;
