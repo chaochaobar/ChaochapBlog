@@ -1,8 +1,6 @@
-#select_sort
-##code:
-
-
-code1.#include<stdio.h>
+1.#select_sort
+code:
+#include<stdio.h>
 int main(){
     int a[10]={87,22,44,1,42,556,24,20,13,16};
     int i,j;
@@ -25,9 +23,9 @@ int main(){
     }
     return 0;
 }
-#bubbling_sort
-##code:
-code2.#include<stdio.h>
+2.bubbling_sort
+code:
+#include<stdio.h>
 int main()
 {
     int a[10]={33,26,29,39,82,290,999,933,20,13};
