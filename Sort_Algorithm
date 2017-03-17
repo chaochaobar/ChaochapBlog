@@ -1,4 +1,4 @@
-1.#select_sort
+1.select_sort
 code:
 #include<stdio.h>
 int main(){
